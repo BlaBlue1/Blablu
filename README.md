@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RuthWTadese
+- 👋 Hi, I’m Ruth W Tadese (@RuthWudu)
 - 👀 I’m interested in entry level software developer position
 - 🌱 I’m currently learning to develop Web Applications with Spring Boot
 - 💞️ I’m looking to collaborate on developing Web Applications
